@@ -1,0 +1,20 @@
+We want to create a database consisting of a few tables to represent a soccer team. Here are the data:
+1) A team consist of 16 or more members.
+2) It's a coed team, so they can be either male or female.
+3) Each player has personal properties age, height, weight, data of birth.
+4) Each member can have one of the following roles: Player, Couch, Assistent, Manager, Staff. Each member has a yearly salary and length of being with the team ( in months)
+5) Each player has a set of general physical sportive properties: max speed, max jump, reaction time(in milliseconds), Time2MaxSpeed(in sec), stamina(in min time to run 5k)
+6) Each player has a few properties related to soccer: first favorite position, second favorite position, # goals scored, # of assists (goal passes), Longest pass, Max time holding a ball(seconds), max length running with ball(meter, max distance run in a game(in km)
+
+Soccer positions are: Goalie, center Def, Left Def, Right Def, MidField Center, Left Mid, Right Mid, Forward Center, Forward Left, Forward Right.
+
+Implement the above data in a few tables on paper chooing the primary keys and corresponding attributes. Try to design in a way such that each table represent one aspect or related aspects of the team. Also try not to have too many common attributes among the tables.
+
+Implement your design on the website we used in class. Then do the following queries:
+
+1) select all players who are older than 21 and like play forward in general.
+2) select all players who are taller than 1.75 m and scored or assisted more than 5 goals.
+3) Compute average of all female players age.
+4) Compute average salary of all team members.
+5) show all players who are taller than 1.8m and younger than 29.
+
