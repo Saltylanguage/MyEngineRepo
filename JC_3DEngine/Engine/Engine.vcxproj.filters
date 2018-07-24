@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="GameObjects">
+      <UniqueIdentifier>{6e32504b-b70d-4068-8f2f-ac4a3e6135ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObjects\Inc">
+      <UniqueIdentifier>{f328c082-1679-44f8-873c-b0c9be85ddaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObjects\Src">
+      <UniqueIdentifier>{26c40304-bd0e-488c-b8aa-736a1471f06f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\BlockAllocator.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CameraComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CameraControllerComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ColliderComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Component.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CursorComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GameObject.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GameObjectFactory.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GameWorld.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MetaRegistration.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ModelComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Precompiled.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ProjectileComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SpawnerComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SpriteComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\TerrainComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\TransformComponent.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\XMLReader.cpp">
+      <Filter>GameObjects\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\Precompiled.h">
+      <Filter>GameObjects\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\BlockAllocator.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\CameraComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\CameraControllerComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\ColliderComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\Common.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\Component.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\CursorComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\Engine.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\GameObject.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\GameObjectFactory.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\GameWorld.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\MetaRegistration.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\ModelComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\ProjectileComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\SpawnerComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\SpriteComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\TerrainComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\TransformComponent.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\TypeAllocator.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\TypeHandle.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\Utils.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\XMLReader.h">
+      <Filter>GameObjects\Inc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

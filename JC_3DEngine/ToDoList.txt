@@ -1,0 +1,44 @@
+
+TODO LIST:
+
+2) Fill out any missing functioanlity in Graphics & Math
+	Animation
+	Toon Shading
+	Model Loading (not sure if working)
+	Meta Registry
+	Game Object Factory
+
+3) Fix Architecture:			THIS IS DONE
+	
+					  App											APPLICATION LAYER
+					   |
+			  -------------------
+					   |		    
+					Engine											ENGINE LAYER
+					  |			
+					  |
+	  -----------------------------------
+	  |	 |       |          |           |
+	  |	 AI		Meta	Graphics	Networking						LIBRARY LAYER
+	  |
+	  -------------	------
+		   |      |		 |
+		 Core	Math	Meta										CORE LAYER
+	 		 
+			 
+
+4) Get Animation Working
+
+5) Bring in extra libraries from other classes
+	a) AI library
+	b) Game Object System & RTTI			DONE
+	c) Physics Library
+
+
+
+Questions: 
+
+1) What is needed to create collision between AABB's and/or OBB's
+2) What changes are necessary for input (win32 - directX conversion)d
+3) 
+

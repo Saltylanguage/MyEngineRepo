@@ -1,0 +1,115 @@
+MeshCount = 1
+TextureCount = 1
+BoneCount: 0
+AnimationCount: 0
+VertexCount = 24
+IndexCount = 36
+Position: -1.0 1.0 -1.0
+Normal: 0.0 0.0 -1.0
+TextCoord: 0.0 0.0
+Position: 1.0 1.0 -1.0
+Normal: 0.0 0.0 1.0
+TextCoord: 1.0 0.0
+Position: 1.0 -1.0 -1.0
+Normal: 0.0 0.0 -1.0
+TextCoord: 1.0 1.0
+Position: -1.0 -1.0 -1.0
+Normal: 0.0 0.0 -1.0
+TextCoord: 0.0 1.0
+Position: 1.0 1.0 1.0
+Normal: 0.0 0.0 1.0
+TextCoord: 0.0 0.0
+Position: -1.0 1.0 1.0 
+Normal: 0.0 0.0 1.0
+TextCoord: 1.0 0.0
+Position: -1.0 -1.0 1.0 
+Normal: 0.0 0.0 1.0
+TextCoord: 1.0 1.0
+Position: 1.0 -1.0 1.0
+Normal: 0.0 0.0 1.0
+TextCoord: 0.0 1.0
+Position: -1.0 1.0 -1.0
+Normal: -1.0 0.0 0.0
+TextCoord: 1.0 0.0
+Position: -1.0 1.0 1.0
+Normal: -1.0 0.0 0.0
+TextCoord: 0.0 0.0
+Position: -1.0 -1.0 1.0
+Normal: -1.0 0.0 0.0
+TextCoord: 0.0 1.0
+Position: -1.0 -1.0 -1.0
+Normal: -1.0 0.0 0.0
+TextCoord: 1.0 1.0
+Position: 1.0 1.0 1.0
+Normal: 1.0 0.0 0.0
+TextCoord: 1.0 0.0
+Position: 1.0 1.0 -1.0
+Normal: 1.0 0.0 0.0
+TextCoord: 0.0 0.0
+Position: 1.0 -1.0 -1.0
+Normal: 1.0 0.0 0.0
+TextCoord: 0.0 1.0
+Position: 1.0 -1.0 1.0
+Normal: 1.0 0.0 0.0
+TextCoord: 1.0 1.0
+Position: 1.0 1.0 1.0
+Normal: 0.0 1.0 0.0
+TextCoord: 1.0 0.0
+Position: -1.0 1.0 1.0
+Normal: 0.0 1.0 0.0
+TextCoord: 0.0 0.0
+Position: -1.0 1.0 -1.0
+Normal: 0.0 1.0 0.0
+TextCoord: 0.0 1.0
+Position: 1.0 1.0 -1.0
+Normal: 0.0 1.0 0.0
+TextCoord: 1.0 1.0
+Position: 1.0 -1.0 -1.0
+Normal: 0.0 -1.0 0.0
+TextCoord: 1.0 0.0
+Position: -1.0 -1.0 -1.0
+Normal: 0.0 -1.0 0.0
+TextCoord: 0.0 0.0
+Position: -1.0 -1.0 1.0
+Normal: 0.0 -1.0 0.0
+TextCoord: 0.0 1.0
+Position: 1.0 -1.0 1.0
+Normal: 0.0 -1.0 0.0
+TextCoord: 1.0 1.0
+Vertex Index: 0
+Vertex Index: 1
+Vertex Index: 2
+Vertex Index: 0
+Vertex Index: 2
+Vertex Index: 3 
+Vertex Index: 4
+Vertex Index: 5
+Vertex Index: 6
+Vertex Index: 7
+Vertex Index: 4
+Vertex Index: 6
+Vertex Index: 10
+Vertex Index: 9
+Vertex Index: 8
+Vertex Index: 11
+Vertex Index: 10
+Vertex Index: 8
+Vertex Index: 14
+Vertex Index: 13
+Vertex Index: 12
+Vertex Index: 15
+Vertex Index: 14
+Vertex Index: 12
+Vertex Index: 18
+Vertex Index: 17
+Vertex Index: 16
+Vertex Index: 19
+Vertex Index: 18
+Vertex Index: 16
+Vertex Index: 22
+Vertex Index: 21
+Vertex Index: 20
+Vertex Index: 23
+Vertex Index: 22
+Vertex Index: 20
+FileName: RedBrick_Texture.jpg
