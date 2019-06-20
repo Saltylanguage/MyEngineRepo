@@ -103,7 +103,7 @@
     <ProjectGuid>{D5F7A369-ED1B-4190-AE93-100F6403BAED}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Graphics</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

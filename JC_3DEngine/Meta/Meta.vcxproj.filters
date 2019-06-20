@@ -12,9 +12,6 @@
     <ClInclude Include="Common.h">
       <Filter>Inc</Filter>
     </ClInclude>
-    <ClInclude Include="Precompiled.h">
-      <Filter>Src</Filter>
-    </ClInclude>
     <ClInclude Include="Inc\Meta.h">
       <Filter>Inc</Filter>
     </ClInclude>
@@ -32,6 +29,9 @@
     </ClInclude>
     <ClInclude Include="Inc\MetaUtil.h">
       <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Precompiled.h">
+      <Filter>Src</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

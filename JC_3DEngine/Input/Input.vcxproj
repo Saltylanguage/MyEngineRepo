@@ -33,6 +33,9 @@
     <ProjectReference Include="..\Core\Core.vcxproj">
       <Project>{73b1b822-fd8d-4e45-b013-13d95484b7ed}</Project>
     </ProjectReference>
+    <ProjectReference Include="..\Externals\DirectXTK\DirectXTK_Desktop_2015.vcxproj">
+      <Project>{e0b52ae7-e160-4d32-bf3f-910b785e5a8e}</Project>
+    </ProjectReference>
     <ProjectReference Include="..\Graphics\Graphics.vcxproj">
       <Project>{d5f7a369-ed1b-4190-ae93-100f6403baed}</Project>
     </ProjectReference>
@@ -41,7 +44,7 @@
     <ProjectGuid>{D173D18E-8D7B-4062-AED5-32AC61CD24B4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Input</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

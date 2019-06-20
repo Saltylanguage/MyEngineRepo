@@ -18,9 +18,6 @@ private:
 	virtual void OnTerminate() override;
 	virtual void OnUpdate() override;
 
-
-
-
 	//Window
 	Core::Window mWindow;
 	Core::Timer mTimer;

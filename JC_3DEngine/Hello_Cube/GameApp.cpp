@@ -121,10 +121,6 @@ void GameApp::OnUpdate()
 	mCamera.Pitch(InputSystem->GetMouseMoveY() * kTurnSpeed *kDeltaTime);
 	static float dt = 0.0f;
 
-
-
-
-
 	//==================ROTATION==================
 	//dt += 0.0005f;
 	//==================ROTATION==================

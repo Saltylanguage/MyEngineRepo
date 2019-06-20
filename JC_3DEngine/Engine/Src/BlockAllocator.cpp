@@ -7,7 +7,7 @@
 
 
 BlockAllocator::BlockAllocator(u32 blockSize, u32 capacity) :
-	mBlockSize((std::max)(sizeof(s32),blockSize)),
+	mBlockSize(std::max<s32>(sizeof(s32),(s32)blockSize)),
 	mCapacity(capacity),
 	mData(nullptr),
 	mNextSlot(0)

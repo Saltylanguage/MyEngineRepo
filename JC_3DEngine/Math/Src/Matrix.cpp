@@ -286,14 +286,11 @@ Matrix Matrix::RotateZ(const float angle)
 
 Matrix Matrix::MakeScaleMatrix(const Vector3 & scale)
 {
-
 	return Matrix(
 		scale.x, 0.0f, 0.0f, 0.0f,
 		0.0f, scale.y, 0.0f, 0.0f,
 		0.0f, 0.0f, scale.z, 0.0f,
 		0.0f, 0.0f, 0.0f, 1.0f);
-
-
 }
 
 float Matrix::Determinant() const

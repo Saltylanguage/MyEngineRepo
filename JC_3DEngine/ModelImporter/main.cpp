@@ -1,7 +1,7 @@
-#include <Graphics\Inc\Graphics.h>
-#include <assimp/Importer.hpp>  //C++ importer interface
-#include <assimp/scene.h>		// Output Data Structure
-#include <assimp/postprocess.h> // Post Proecessing Flags
+#include "Graphics\Inc\Graphics.h"
+#include "assimp\Importer.hpp"  //C++ importer interface
+#include "assimp\scene.h"		// Output Data Structure
+#include "assimp\postprocess.h" // Post Proecessing Flags
 #include <cstdio>
 #include <cstdlib>
 #include <vector>

@@ -22,7 +22,7 @@
     <ProjectGuid>{C7A7CF34-FE28-43E2-B3D6-C4184A464C1E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>HelloEarth</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
     <ProjectName>Hello_Earth</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

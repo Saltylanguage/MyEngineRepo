@@ -23,7 +23,7 @@
     <ProjectGuid>{A1471E72-95F4-4888-BDFC-31D3F3F1BC0D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Chat_Client</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
